@@ -1,2 +1,2 @@
-# Dik-gende-Hipoten-s
+# Dik-ucgende-Hipotenus
 patika.dev Dik Üçgende Hipotenüs
